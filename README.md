@@ -1,3 +1,5 @@
+<img width="1248" height="832" alt="English" src="https://github.com/user-attachments/assets/eda55e39-619e-407a-95a0-00157bd1ef2c" />
+
 # 🔦 RE1 Brightness Changer 🚪
 
 A simple AutoHotkey script to automatically adjust monitor brightness when playing **Resident Evil 1 Rebirth** (1996).
@@ -37,5 +39,4 @@ If you don't want to install [AutoHotkey](https://www.autohotkey.com/) you can d
 # 🎥 YouTube video here
 
 [The game now Changes my Monitor's Brightness! - Devlog - YouTube](https://youtu.be/QWQHXh3FDio)
-<img width="1248" height="832" alt="English" src="https://github.com/user-attachments/assets/eda55e39-619e-407a-95a0-00157bd1ef2c" />
 

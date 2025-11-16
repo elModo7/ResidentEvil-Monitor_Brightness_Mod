@@ -33,3 +33,7 @@ It uses a timer to check this state and calls the `setMonitorBrightnessProgressi
 5. **Enjoy:** Experience the seamless, dark door transitions!
 
 If you don't want to install [AutoHotkey](https://www.autohotkey.com/) you can download an executable from [releases](https://github.com/elModo7/ResidentEvil-Monitor_Brightness_Mod/releases) and follow the same steps from 3*.
+
+# 🎥 YouTube video here
+
+[The game now Changes my Monitor's Brightness! - Devlog - YouTube](https://youtu.be/QWQHXh3FDio)
